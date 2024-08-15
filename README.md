@@ -49,11 +49,11 @@ Sales Data: The primary dataset utilized for this analysis is the "sales_data.xl
 ### Exploratory Data Analysis
 
   EDA involved exploring the sales data to answer key questions, such as:
- - What is the overall sales trend?
- - What is the sales by salesperson?
- - What is the sales count by invoice amount?
- - What is the sales by region?
- - Who are the top five customers?
+ 1. What is the overall sales trend?
+ 2. What is the sales by salesperson?
+ 3. What is the sales count by invoice amount?
+ 4. What is the sales by region?
+ 5. Who are the top five customers?
 
    ![Sales Trend](https://github.com/user-attachments/assets/0b642e7d-b5fd-4a82-a14c-095b869bee10)
    
@@ -68,11 +68,19 @@ Sales Data: The primary dataset utilized for this analysis is the "sales_data.xl
 
  
 ### Data Analysis
- No code was used in this project. The three main Excel tools used for analysis are:
+ The three main Excel tools used for analysis are:
     
   1. **Power Query** -Clean and preprocess data. - Merge data from different tables and sources. - Perform complex transformations without manual intervention.
   2. **Pivot Table** -Used to aggregate data by categories (e.g., regions, salespersons).  - Used to create summaries such as totals, averages and counts.
   3. **Pivotchart**  -Used to create dynamic and interactive charts.  -Used to visualize trends, patterns, and comparisons.  - Update automatically with changes in the PivotTable data.
+
+### Questions
+1. What is the overall trend in sales throughout the year?
+2. Are there any specific months where sales tend to peak or decline?
+3. How does sales performance vary among different performers?
+4. Are there regional differences in sales performance? If so, which region leads?
+5. Who is the top customer, and how much do they contribute to sales?
+6. What is the distribution of sales invoices by value?
 
 ### Results
 
